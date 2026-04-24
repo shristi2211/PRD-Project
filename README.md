@@ -85,7 +85,7 @@ PRD-Project/
    | `REFRESH_TOKEN_EXPIRY`| `168h`                                            |
    | `REDIS_URL`           | _(leave empty — rate limiting disabled)_          |
 
-6. Deploy. Note your Render URL (e.g. `https://gsl-backend.onrender.com`).
+6. Deploy. Your Render URL is: `https://prd-project.onrender.com`.
 
 ### 3. Frontend (Vercel)
 
@@ -96,7 +96,7 @@ PRD-Project/
 
    | Variable         | Value                                    |
    | ---------------- | ---------------------------------------- |
-   | `VITE_API_URL`   | `https://gsl-backend.onrender.com` (your Render URL) |
+   | `VITE_API_URL`   | `https://prd-project.onrender.com`       |
 
 5. Deploy. Your frontend URL will be something like `https://gsl-frontend.vercel.app`.
 
