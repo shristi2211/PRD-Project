@@ -78,7 +78,7 @@ PRD-Project/
    | --------------------- | ------------------------------------------------- |
    | `DATABASE_URL`        | Your Supabase connection string (from Step 1.4)   |
    | `PORT`                | `8080`                                            |
-   | `CORS_ORIGINS`        | `https://your-frontend.vercel.app` (update after Vercel deploy) |
+   | `CORS_ORIGINS`        | `https://project-xuiv6.vercel.app`
    | `JWT_PRIVATE_KEY`     | Contents of `backend/keys/private.pem`            |
    | `JWT_PUBLIC_KEY`      | Contents of `backend/keys/public.pem`             |
    | `ACCESS_TOKEN_EXPIRY` | `15m`                                             |
@@ -117,6 +117,8 @@ After deploying, visit your Vercel URL and perform the initial Admin Setup:
 | Email    | `admin@gsl.com`           |
 | Password | `Admin@123456`            |
 
+NOTE : Current admin email is shristi.srivastava@vercel.com and password is Shristi@12345
+
 ### Test Subscriber (register via /register after selecting a plan)
 | Field    | Value                     |
 | -------- | ------------------------- |
@@ -126,6 +128,8 @@ After deploying, visit your Vercel URL and perform the initial Admin Setup:
 | Plan     | `Monthly`                 |
 
 ---
+NOTE : Current admin email is prakhyatsrivasatva2211@gmail.com and password is 12345@Prakhyat
+
 
 ## 🛠️ Local Development
 
