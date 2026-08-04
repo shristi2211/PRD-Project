@@ -1,4 +1,4 @@
-# ⛳ Golf Score Lottery (GSL)
+# ⛳ Golf Score Lottery (GSL)     [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)](#license)
 
 A full-stack web application that combines golf score tracking with a charitable lottery system. Players submit their Stableford golf scores, which automatically enter them into monthly lottery draws. Winnings are split between the winner and their chosen charity.
 
